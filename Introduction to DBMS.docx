@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved.">
+  <assemblyIdentity name="Microsoft-NanoServer-Edition-Core-Package" version="10.0.19041.662" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+  <package identifier="Microsoft-NanoServer-Edition-Core" releaseType="Feature Pack">
+    <update name="030f75fb38e8dc04e28a55bad6a4bbb7">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-NanoServer-Edition-Core-merged-Package" version="10.0.19041.662" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="21ff53481c70e7c71bbf925fa2096656">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-NanoServer-Licensing-Package" version="10.0.19041.572" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="d8f47bf009cc4ddf188f16fb044c7506">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-NanoServer-Minimal-Drivers-Package" version="10.0.19041.488" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="a35ef04e0e991623695841c587328fa9">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-Certificate-Package" version="10.0.19041.662" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="480f3bccb899dec60f5c0f07e51b8621">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Product-onecore__Microsoft-OneCore-Cmd-Package" version="10.0.19041.662" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="89c8590e075842330e86f387775ec2f8">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-CmdLineTools-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="0c42d4f7b4f1c0b52c49f94475301b5f">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-CmdLineTools-Custom-Package" version="10.0.19041.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="3f52d103af678a606cf7f4e2ba0332c8">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-CoreSystem-FAT-Package" version="10.0.19041.572" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="5c7bcaf6f23bdf55670a89f66e201532">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-CoreSystem-MSVCP110-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="29a9ed421afa59af4c447d8513c6e338">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-CoreSystem-OLE-Automation-Package" version="10.0.19041.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="d84507ae798611f656827030737c7255">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-CoreSystem-OneCoreCommonProxyStub-Package" version="10.0.19041.610" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="63c31ce22b588643dca59f07a015e316">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-CoreSystem-UserModePowerService-Package" version="10.0.19041.662" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="32622644449f7f7951b1140cbac6244c">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-CoreSystem-WinHTTPCom-Package" version="10.0.19041.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="22a8eda0c2097115454714bb8d5c7133">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-CoreSystem-WmiClnt-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="4758e5b518700300f65ee8c5fe4dc08a">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-DiskSnapshotWcos-Package" version="10.0.19041.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="f21a59dd456d24e5def7a0c6aff77c1b">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-ESENT-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="0bb02a386f41fb338dc75b90092c878a">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-EventLog-WMI-Package" version="10.0.19041.610" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="bb4c210736750de2e4ba71286be1fd65">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-EventLogService-Package" version="10.0.19041.662" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="2de5c29c457df0f36640cc6bd1341045">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-FileSystem-Support-Package" version="10.0.19041.662" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="b5ae890599b53c1f1a234e72cb463071">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-Flighting-FeatureConfiguration-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="5c9f268b4e6ccfa0a9c89e6ba7c3a277">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-Flighting-OneSettingsClient-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="3f11596e0334d80351044d8c81994083">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-Network-LegacyTdx-Package" version="10.0.19041.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="b38d4217e739de5e5db5a1f69bce0de0">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-TroubleShooting-Package" version="10.0.19041.662" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="dfc77d8b0f42d2f44f709aa1b6d11877">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-UnixCommandLineTools-Package" version="10.0.19041.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="06db0209d47d6c54e9aa24b967b3b775">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-VHD-Package" version="10.0.19041.610" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="abbbbef85902ba3769adda89dad501aa">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-OneCore-WebService-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="b7862cf4683ee6d3f23cd358e5f50ba9">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Unified-Telemetry-Client-Settings-WindowsServer-Package" version="10.0.19041.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="f760b2be2a12b63ba0b37960b54560c6">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-AfUnix-Package" version="10.0.19041.488" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="f460fff503d5cf54542e14c50205334e">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-CoreSystem-BootableSKU-Drivers-Physical-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="11586300c7fa32effe07d70978bdb608">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-CoreSystem-BootEnv-Package" version="10.0.19041.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="fea534a8e245aa50c879172040889bac">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-CoreSystem-FileSys-Util-Package" version="10.0.19041.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="cfbfc370b52f15631a2e0e0ba44b4eff">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-CoreSystem-MSXML6-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="20d0723b711da79b0f238469f749e8b2">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-CoreSystem-PerfCounter-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="b91d890d4bb643d4a45f88d2b5037ae8">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-CoreSystem-RemoteFS-Client-Package" version="10.0.19041.662" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="fbe2ad0b85839d7d86497bdc6f85e8e4">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-CoreSystem-SecurityVault-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="08ad49b2fd34910541358b8e257aa211">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-CoreSystem-WINNLS-Core-Package" version="10.0.19041.662" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="4ddd607904c1e413367428428a62ee6a">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-DeltaCompression-Package" version="10.0.19041.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="983346283422e57b44a26aebe8d97a33">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-DHCP-Package" version="10.0.19041.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="9d75ac5b6594dae5d548be538421ed3b">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-FlightSettings-Package" version="10.0.19041.546" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <update name="53e6e4dec6874944e6458e6014a9715e">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name=
